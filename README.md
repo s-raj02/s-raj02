@@ -5,6 +5,7 @@ Software Engineer passionate about building scalable backend systems, full-stack
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhanshu-raj-67a74a352) 
+
 📩 Reach me at: **sudhanshu0221@gmail.com**
 
 # 💻 Tech Stack:
