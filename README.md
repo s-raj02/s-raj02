@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. Skilled in Java, Spring Boot, React, Node.js, Express, MongoDB, C++, and Python, with hands-on experience in developing machine learning applications and modern web platforms. I enjoy solving complex problems, learning new technologies, and creating impactful software that combines innovation with practical use cases. Currently exploring cloud technologies, DevOps practices, and distributed system design.
+Software Engineer passionate about building scalable backend systems, full-stack web applications, and AI-powered solutions. Skilled in TypeScript, JavaScript, React, Node.js, Express, MongoDB, C++, and Python, with hands-on experience in developing machine learning applications and modern web platforms. I enjoy solving complex problems, learning new technologies, and creating impactful software that combines innovation with practical use cases. Currently exploring cloud technologies, DevOps practices, and distributed system design.
 
 
 ## 🌐 Socials:
